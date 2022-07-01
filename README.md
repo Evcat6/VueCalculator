@@ -1,5 +1,8 @@
 # calculator
 
+codesandbox link:
+https://hjygbb.csb.app/
+
 ## Project setup
 ```
 npm install
