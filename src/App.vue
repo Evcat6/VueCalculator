@@ -13,7 +13,7 @@
         <button name="9" @click="handleClick">9</button>
         <button class="highlight" name="*" @click="handleClick">&times;</button>
         <button name="4" @click="handleClick">4</button>
-        <button name="4" @click="handleClick">5</button>
+        <button name="5" @click="handleClick">5</button>
         <button name="6" @click="handleClick">6</button>
         <button class="highlight" name="-" @click="handleClick">-</button>
         <button name="1" @click="handleClick">1</button>
